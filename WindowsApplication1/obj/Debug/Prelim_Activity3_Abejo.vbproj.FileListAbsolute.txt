@@ -1,0 +1,53 @@
+E:\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\Prelim_Activity3_Abejo.vbprojResolveAssemblyReference.cache
+E:\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+E:\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\Prelim_Activity3_Abejo.vbproj.GenerateResource.Cache
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\Prelim_Activity3_Abejo.vbprojResolveAssemblyReference.cache
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Licerio\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\Prelim_Activity3_Abejo.vbproj.GenerateResource.Cache
+F:\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\Prelim_Activity3_Abejo.vbprojResolveAssemblyReference.cache
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Backup\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\Prelim_Activity3_Abejo.vbproj.GenerateResource.Cache
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\Prelim_Activity3_Abejo.vbprojAssemblyReference.cache
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\Prelim_Activity3_Abejo.vbproj.GenerateResource.cache
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\Prelim_Activity3_Abejo.vbproj.CoreCompileInputs.cache
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Rimirin\Documents\Visual Studio 2015\Projects\Prelim_Activity3_Abejo\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
